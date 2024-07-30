@@ -1,0 +1,12 @@
+what is python for date time module
+
+write python prog for custom modules
+
+write the django rest prog pagenation of page no pagenation
+
+wr down 
+
+write down bothstrap prog for forget password  and login password
+
+wr js prog for conditional statement
+python.test@developtrees.com
